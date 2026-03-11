@@ -68,4 +68,4 @@ A message in the minibuffer will confirm the output path and the number of disti
 
 ## Licence
 
-This project is licensed under the MIT license.
+This project is licensed under the GNU General Public License v3.0.
